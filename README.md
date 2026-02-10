@@ -1,1 +1,1 @@
-# AI LLM Project for Anime
+# AI LLM Project for Animee
