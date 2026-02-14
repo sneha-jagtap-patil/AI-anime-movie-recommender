@@ -41,7 +41,3 @@ logs/
 dd
 
 experiments
-animeenv/
-.env
-chroma_db/
-__pycache__/
