@@ -3,7 +3,7 @@ from pipeline.pipeline import AnimeRecommendationPipeline
 from dotenv import load_dotenv
 import time
 
-# ---------------- PAGE CONFIG ----------------
+#  PAGE CONFIG 
 st.set_page_config(
     page_title="AI Anime Recommender",
     page_icon="🎌",
