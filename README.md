@@ -1,4 +1,4 @@
-## 🎌 AI Anime Movie Recommendation System (RAG Based)
+## 🎌 AI Anime Movie Recommendation System (RAG Based)..
 
 An AI-powered Anime Recommendation System built using Retrieval-Augmented Generation (RAG) pipeline.  
 This system recommends anime based on user queries using LLM + Vector Database.
