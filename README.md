@@ -70,7 +70,7 @@ docker run -p 8000:8000 anime-recommender
 kubectl apply -f llmops-k8s.yaml
 ```
 
----
+
 
 ## 📂 Dataset
 
