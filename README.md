@@ -82,5 +82,5 @@ kubectl apply -f llmops-k8s.yaml
 ## 👩‍💻 Author
 
 Sneha Patil  
-AI & ML Enthusiast 🚀
+AI & ML Enthusiast 🚀...........
 
