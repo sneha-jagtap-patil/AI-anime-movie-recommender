@@ -3,7 +3,7 @@
 An AI-powered Anime Recommendation System built using Retrieval-Augmented Generation (RAG) pipeline.  
 This system recommends anime based on user queries using LLM + Vector Database.
 
----
+---..........
 
 ## 🚀 Features
 
