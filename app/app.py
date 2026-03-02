@@ -11,7 +11,7 @@ st.set_page_config(
 )
 load_dotenv()
 
-# ---------------- NEXT-LEVEL CUSTOM CSS ----------------
+# ---------------- NEXT-LEVEL CUSTOM CSS 
 st.markdown("""
     <style>
     /* Import gorgeous fonts */
